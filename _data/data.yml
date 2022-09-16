@@ -1,0 +1,150 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Joanna Lamch
+    tagline: Azure Architect • Software Architect • .NET Developer • Microsoft Azure MVP • MCT Trainer • Technology Advisor
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: programistkaikot@gmail.coom
+    phone: +48 xxxxxx
+    timezone: CEST	Central European Summer Time Time Zone
+    citizenship:
+    website: jlamch.net #do not add http://
+    linkedin: joannalamch
+    xing: 
+    github: jlamch
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@jlamch'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://jlamch.net/cv/assets/CV_JoannaLamch_English.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Polish
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Mechanical Keyboards
+          link: https://jlamch.net/mechkeyboards/
+
+        - item: Cats
+          link:
+
+        - item: STEM
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I'm a self-driven architect/developer with broad experience in Microsoft stack technologies .NET, Azure. 
+      I'm a co-founder of Silesian Microsoft User Group, passionate programming community activist, begginer, YouTuber, public speaker, trainer. 
+      I have experience in both Business-to-Client and Business-to-Business applications in a wide range of industries, including financial, retail, production. While creating both mobile and web applications I've gathered wide spectrum of experiences not only in developement but also in architecting solutions, infrastructure and gather business requirements. 
+      Certificates
+      Transcript ID-> 1173970
+      Access Code-> jlamch123
+      Transcript Viewing Page-> https://mcp.microsoft.com/Anonymous//Transcript/Validate
+
+education:
+    title: Education
+    info:
+      - degree: MSc in Computer Science
+        university: University of Silesia
+        time: 1999 - 2004
+        details: |
+          Faculty of Computer and Material Science.
+          Speciality: Programming technology.
+          Master thesis: „Comparison of different methods used for modeling objects structures in object-oriented analysis and implementation”
+experiences:
+    title: Experiences
+    info:
+      - role: Application Architect in Center of Excellence
+        time: 10/2021 - 10/2022 
+        company: SoftServe
+        details: |
+          Working with clients to gather requirements, prepare architecture, plan development, prepare offer, analyze existing systems and propose improvements and cost optimization. I work with all possible solutions in Microsoft technology stack but also with mobile applications and cloud applications (mostly Azure but all clouds are alike, and I already worked with GCP and AWS)
+            - Architecture vision
+            - C4
+            - requirement gathering
+            - estimates
+            - pre-sale
+      - role: 
+        time: 09/2020 - 09/2021
+        company: CloudState (Chmurowisko)
+        details: |
+          I work as a trainer, presenter, developer, consultant in variety of projects. One of bigger project that I was helping to develop (dev and architect) was .NET Core 3, Azure Active Directory, MediatR, modular monolith, Azure Infrastructure.
+          Most of my work is just solving clients problems and finding what is wrong with their projects, architecture, infrastructure or code, Azure resources in cost and performance point of view.
+            - .NET Core 3
+            - Azure Active Directory
+            - MediatR
+            - Azure
+            - consultancy
+            - trainer
+      - role: Software Developer
+        time: 2018 - 2020
+        company: Sienn
+        details: |
+          Cross-platform mobile application development using Xamarin Native, Xamarin Forms, AppCenter, Git, MVVMCross. Azure architecture and administration. Creating architecture for whole projects and modules. Azure cost estimation, Infrastructure planning and implementing (ARM templates). Creating CI/CD pipelines. Azure DevOps administration.
+          Backend development using .NET Core, Azure functions, Azure Service Bus, IoT Hub for IoT project.
+          Technologies: 
+            - Xamarin, Xamarin.Adroid, Xamarin.iOS, MVVMCross, 
+            - Azure, Azure Functions, Azure ARM templates, 
+            - REST services, 
+            - Azure DevOps, 
+            - push notifications, HockeyApp, Fody, HockeyApp, AppCenter, 
+            - Azure IoT services like IoT Hub.            
+projects:
+   
+
+publications:
+   
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: .NET, C#, Entity Framework 
+        level: 85%
+
+      - name: Javascript
+        level: 5%
+
+      - name: Azure
+        level: 95%
+
+      - name: SQL (language and MSSQL/Azure SQL)
+        level: 80%
+
+      - name: PowerShell/Bash/ARM
+        level: 85%
+
+      - name: Design patterns, Architecture patterns and practices, C4
+        level: 75%
+
+      - name: Azure DevOps, GitHub, Jira
+        level: 70%
+
+      - name: Xamarin, Xamarin Native, MVVMCross, Universal Apps, WPF 
+        level: 70%
+      
+      - name: old backend technologies WCF, WCF Web API, ADO.NET, NHibernate, .NET Framework
+        level: 70%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
